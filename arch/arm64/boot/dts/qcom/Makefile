@@ -23,10 +23,7 @@ dtbo-$(CONFIG_ARCH_QCOM) += \
 	enchilada-pvt-v2.1-overlay.dtbo \
 	enchilada-pvt-v2.1-backup-overlay.dtbo \
 	enchilada-mp-v2.1-overlay.dtbo \
-	
-	
-	
-    fajita-dvt-v2.1-overlay.dtbo \
+	fajita-dvt-v2.1-overlay.dtbo \
 	fajita-dvt-v2.1-bu-overlay.dtbo \
 	fajita-pvt-v2.1-overlay.dtbo \
 	fajita-pvt-v2.1-bu-overlay.dtbo \
