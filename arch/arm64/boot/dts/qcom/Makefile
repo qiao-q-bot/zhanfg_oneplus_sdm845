@@ -29,7 +29,6 @@ dtbo-$(CONFIG_ARCH_QCOM) += \
 	fajita-pvt-v2.1-overlay.dtbo \
 	fajita-pvt-v2.1-bu-overlay.dtbo \
 	fajita-pvt-v2.1-v1-overlay.dtbo \
-	fajita-pvt-v2.1-spec-overlay.dtbo \
 	fajita-mp-v2.1-spec-overlay.dtbo
 
 sdm845-mtp-overlay.dtbo-base := sdm845.dtb
