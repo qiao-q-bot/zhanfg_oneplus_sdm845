@@ -26,10 +26,14 @@ dtbo-$(CONFIG_ARCH_QCOM) += \
 	fajita-evb-v2.1-overlay.dtbo \
 	fajita-t0-v2.1-overlay.dtbo \
 	fajita-evt1-v2.1-overlay.dtbo \
+#	fajita-dvt-v2.1-overlay.dtbo \
+#	fajita-dvt-v2.1-bu-overlay.dtbo \
 	fajita-pvt-v2.1-overlay.dtbo \
 	fajita-pvt-v2.1-bu-overlay.dtbo \
-	fajita-pvt-v2.1-v1-overlay.dtbo 
-	
+	fajita-pvt-v2.1-v1-overlay.dtbo \
+	fajita-pvt-v2.1-spec-overlay.dtbo \
+	fajita-mp-v2.1-spec-overlay.dtbo
+
 sdm845-mtp-overlay.dtbo-base := sdm845.dtb
 sdm845-v2-mtp-overlay.dtbo-base := sdm845-v2.dtb
 sdm845-v2.1-mtp-overlay.dtbo-base := sdm845-v2.1.dtb
